@@ -1,4 +1,17 @@
 # Credit-Risk-EDA
+
+Introduction
+This project applies Exploratory Data Analysis (EDA) to a real-world business scenario in the financial sector. The objective is to analyze loan application data and identify risk factors that impact loan repayment. By leveraging data analytics, financial institutions can minimize lending risks while ensuring credit access to eligible applicants.
+
+Business Context
+Loan providers face challenges in assessing borrowers with limited or no credit history. Some applicants take advantage of this uncertainty and default on loans. Through EDA, this study aims to uncover patterns in consumer and loan attributes that influence default risks.
+
+Key Objectives
+Identify attributes that indicate repayment difficulties.
+Develop insights to optimize loan approval strategies.
+Reduce financial losses by improving risk assessment models.
+
+#**Problem statement :**  
 EDA in a real business scenario, focusing on risk analytics in banking and finance. You'll use EDA techniques to analyze data, identify patterns, and minimize lending risks. By understanding customer profiles and financial behaviors, you'll learn how data-driven insights help reduce the risk of financial losses in lending decisions.
 Business Understanding
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it to their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specialises in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants capable of repaying the loan are not rejected.
